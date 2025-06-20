@@ -19,7 +19,7 @@ export default function Portfolio() {
     th: {
       name: "เสาวลักษณ์ เจริญรักษ์ปัญญา",
       intro:
-        "ในบทบาทของฉันในฐานะ PMO และหัวหน้าทีม QA ฉันเป็นตัวกลางระหว่างความต้องการทางธุรกิจและการพัฒนาเทคโนโลยี...",
+        "My name is Saowalak Charoenrakphanya, in my role as a PMO and QA Lead, I bridge the gap between business requirements and technical execution. By managing agile processes, improving development workflows, and ensuring quality control, I contribute to the successful delivery of software products. My focus on process eGiciency and continuous improvement helps the team achieve high performance while maintaining quality standards in an agile environment.",
       resume: "ดาวน์โหลดเรซูเม่",
       about: "เกี่ยวกับฉัน",
       portfolio: "ผลงาน",

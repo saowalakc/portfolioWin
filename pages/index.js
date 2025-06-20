@@ -10,7 +10,7 @@ export default function Portfolio() {
     en: {
       name: "Saowalak Charoenrakphanya",
       intro:
-        "In my role as a PMO and QA Lead, I bridge the gap between business requirements and technical execution...",
+        "My name is Saowalak Charoenrakphanya, in my role as a PMO and QA Lead, I bridge the gap between business requirements and technical execution. By managing agile processes, improving development workflows, and ensuring quality control, I contribute to the successful delivery of software products. My focus on process eGiciency and continuous improvement helps the team achieve high performance while maintaining quality standards in an agile environment.",
       resume: "Download Resume",
       about: "About Me",
       portfolio: "Portfolio",
